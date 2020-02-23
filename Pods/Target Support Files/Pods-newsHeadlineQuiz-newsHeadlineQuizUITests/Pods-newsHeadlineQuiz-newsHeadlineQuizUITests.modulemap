@@ -1,0 +1,6 @@
+framework module Pods_newsHeadlineQuiz_newsHeadlineQuizUITests {
+  umbrella header "Pods-newsHeadlineQuiz-newsHeadlineQuizUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
